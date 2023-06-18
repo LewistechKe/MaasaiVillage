@@ -12,7 +12,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://elaborate-snickerdoodle-11b06c.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://mythicommerce.vercel.app/)
 
 _"Treasures of the ages, on sale now!"_ - Hermit Shopkeeper
 
@@ -29,16 +29,16 @@ Mythic Item Shop is a dynamic e-commerce application that mimics the UI/UX of a 
 
 ## Contact
 
-Ethan Salonga - [E-portfolio](https://ethansalonga.dev/) - ethan@ethansalonga.dev
+Lewis Muthaura - [E-portfolio](https://lewistech.vercel.app/) - lewistech001@gmail.com
 
-Project Link: [https://github.com/ethansalonga/mythic-ecommerce](https://github.com/ethansalonga/mythic-ecommerce)
+Project Link: [https://github.com/LewistechKe/Mythicommerce](https://github.com/LewistechKe/Mythicommerce)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ethan-salonga/
+[linkedin-url]: https://www.linkedin.com/in/lewis-muthaura/
 [product-screenshot]: src/assets/screenshot.png
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
