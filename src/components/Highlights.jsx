@@ -8,7 +8,7 @@ const Highlights = () => {
       <div className="container">
         <div className="row">
           <h2 className="section__title">
-            Why choose <span className="purple">Mythic</span>
+            Why choose <span className="purple">Maa-Village ?</span>
           </h2>
           <div className="highlight__wrapper">
             <Highlight
@@ -19,7 +19,7 @@ const Highlights = () => {
             <Highlight
               icon={<FontAwesomeIcon icon="wand-magic-sparkles" />}
               title="100+ Items"
-              para="Mythic has items across every category to serve your exact needs."
+              para="Maa-Village has items across every category to serve your exact needs."
             />
             <Highlight
               icon={<FontAwesomeIcon icon="coins" />}
