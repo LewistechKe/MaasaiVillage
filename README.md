@@ -12,7 +12,7 @@
 
 ## About The Project
 
-[![Maasai Artifact Ecommerce Website][product-screenshot]](screenshot.jpg)
+[![Maasai Artifact Ecommerce Website][product-screenshot]](https://maasaivillage.vercel.app/)
 
 _"Discover and acquire authentic Maasai artifacts!"_ - Maasai Artifacts Inc.
 
@@ -39,7 +39,7 @@ Project Link: [https://github.com/LewistechKe/MaasaiVillage](https://github.com/
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lewis-muthaura/
-[product-screenshot]: screenshot.jpg
+[product-screenshot]: screenshot.png
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
 
