@@ -12,7 +12,7 @@
 
 ## About The Project
 
-[![Maasai Artifact Ecommerce Website][product-screenshot]](https://example.com/maasai-ecommerce.jpg)
+[![Maasai Artifact Ecommerce Website][product-screenshot]](https://maasaivillage.vercel.app/)
 
 _"Discover and acquire authentic Maasai artifacts!"_ - Maasai Artifacts Inc.
 
